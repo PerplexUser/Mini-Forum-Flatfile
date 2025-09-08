@@ -11,7 +11,7 @@ mkdir -p data/threads
 chmod 777 data data/threads
 
 
-Rufe im Browser https://deine-domain.tld/forum/board.php auf.
+Rufe im Browser https://deine-domain.de/forum/board.php auf.
 
 Empfohlene Härtung (trotz 777): blockiere Direktzugriffe auf die JSON‑Dateien:
 
